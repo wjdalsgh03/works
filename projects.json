@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Apple UI 클론",
+    "description": "애플 공식 홈페이지를 React로 클론한 프로젝트입니다."
+  },
+  {
+    "title": "포트폴리오 사이트",
+    "description": "현재 보고 있는 이 사이트입니다. HTML/CSS/JS로 제작."
+  },
+  {
+    "title": "Todo 웹앱",
+    "description": "Vanilla JS와 Firebase를 활용한 할 일 관리 앱입니다."
+  }
+]
